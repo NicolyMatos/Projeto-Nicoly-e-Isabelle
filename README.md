@@ -4,7 +4,12 @@ Manual para utilização do Alarme Noturno (Projeto desenvolvido para a discipli
 
 ## O que é?
 
-Sanci é um sistema de alarme noturno para cuidadores de idosos
+Sanci é um sistema de alarme noturno para cuidadores de idosos, desenvolvido para que os cuidadores tenham um auxilio ao cuidar de alguém. 
+Temos como objetivo 
+
+## Como funciona?
+
+O alarme poderá ser acionado ou destivado pelo cuidador através da interface WEB ou pelo aplicativo. Quando o alarme estiver ativado, ele irá disparar toda vez que o sensor infravermelho(recebtor/emissor), colocado próximo a cama, tiver o sinal interrompido, ou seja, toda vez que alguem passar por ele.  
 
 ## Como utilizar?
 
