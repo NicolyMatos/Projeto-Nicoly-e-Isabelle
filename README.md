@@ -31,4 +31,5 @@ Resistor 330 ohms e 100K ohms: utilizado em ambiente de testes e reparo de circu
 Para mais informações, entre em contato:
 
 Nicoly Matos Martins - nicolymatos@gmail.com
+
 Maria Isabelle Freire Correia - mariaisabelle170498@gmail.com
