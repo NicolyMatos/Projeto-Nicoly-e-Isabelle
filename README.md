@@ -4,11 +4,11 @@ Manual para utilização do Alarme Noturno (Projeto desenvolvido para a discipli
 
 ## O que é?
 
-Sanci é um sistema e alarme noturno
+Sanci é um sistema de alarme noturno para cuidadores de idosos
 
 ## Como utilizar?
 
-##
+
 
 ## Como utlizar SANCI WEB?
 
@@ -16,9 +16,9 @@ Sanci é um sistema e alarme noturno
 
 NodeMcu ESP32: O módulo Wifi ESP32 NodeMCU é uma placa de desenvolvimento que combina o chip ESP32, uma interface usb-serial e um regulador de tensão 3.3V. A programação pode ser feita usando LUA ou a IDE do Arduino.
 
-Arduino UNO:
+Arduino UNO: O Arduino Uno é uma placa de microcontrolador baseado no ATmega328 ( datasheet ).Ele pode ser alimentado através da conexão USB ou com uma fonte de alimentação externa.
 
-Buzzer:
+Buzzer: Componente eletrônico que é composto por 2 camadas de Metal e uma terceira camada interna de cristal Piezoeléctrico, este componente recebe uma fonte de energia e através dela emite uma frequência sonora.
 
 Led Emissor e Receptor Infravermelho IR: Componente que funciona a partir da tecnologia infravermelha. Este LED emite um sinal IR que pode ser reconhecido por diversos receptores infravermelho.
 
