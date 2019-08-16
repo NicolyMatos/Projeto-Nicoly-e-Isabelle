@@ -9,11 +9,11 @@ Sanci é um sistema de alarme noturno que tem como objetivo auxiliar cuidadores 
 
 ## Como funciona?
 
-O alarme poderá ser acionado ou destivado pelo cuidador através da interface WEB ou pelo aplicativo. Quando o alarme estiver ativado, ele irá disparar toda vez que o sensor infravermelho(receptor/emissor), colocado próximo a cama, tiver o sinal interrompido, ou seja, toda vez que alguem passar por ele. Podendo ser desativado através do site "www.projetoin.herokuapp.com" 
+O alarme poderá ser acionado ou destivado pelo cuidador através da interface WEB ou pelo aplicativo. Quando o alarme estiver ativado, ele irá disparar toda vez que o sensor infravermelho(receptor/emissor), colocado próximo a cama, tiver o sinal interrompido, ou seja, toda vez que alguem passar por ele. Podendo ser desativado através do site "projetoin.herokuapp.com" 
 
 ## Como utlizar SANCI pela WEB?
 
-Acesse o site "www.projetoin.herokuapp.com". Ele irá abrir na página abaixo:
+Acesse o site "projetoin.herokuapp.com". Ele irá abrir na página abaixo:
 
 IMAGEM
 
