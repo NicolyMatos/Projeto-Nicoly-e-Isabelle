@@ -4,18 +4,32 @@ Manual para utilização do Alarme Noturno (Projeto desenvolvido para a discipli
 
 ## O que é?
 
-Sanci é um sistema de alarme noturno para cuidadores de idosos, desenvolvido para que os cuidadores tenham um auxilio ao cuidar de alguém. 
-Temos como objetivo 
+Sanci é um sistema de alarme noturno que tem como objetivo auxiliar cuidadores de idosos, através do uso de um sistema de alarme inteligente.
+
 
 ## Como funciona?
 
-O alarme poderá ser acionado ou destivado pelo cuidador através da interface WEB ou pelo aplicativo. Quando o alarme estiver ativado, ele irá disparar toda vez que o sensor infravermelho(recebtor/emissor), colocado próximo a cama, tiver o sinal interrompido, ou seja, toda vez que alguem passar por ele.  
+O alarme poderá ser acionado ou destivado pelo cuidador através da interface WEB ou pelo aplicativo. Quando o alarme estiver ativado, ele irá disparar toda vez que o sensor infravermelho(receptor/emissor), colocado próximo a cama, tiver o sinal interrompido, ou seja, toda vez que alguem passar por ele. Podendo ser desativado através do site "www.projetoin.herokuapp.com" 
 
-## Como utilizar?
+## Como utlizar SANCI pela WEB?
 
+Acesse o site "www.projetoin.herokuapp.com". Ele irá abrir na página abaixo:
 
+IMAGEM
 
-## Como utlizar SANCI WEB?
+Ao clicar no botão "Ativar" o sistema de alarme será ativado e o status do alarme será atualizado para "Ativado".
+
+IMAGEM
+
+Ao clicar no botão "Desativar" o Buzzer será desativado e o status do alarme será atualizado para "Desativado".
+ 
+IMAGEM
+
+No site também aparecerá os dados recebidos pelo sensor infravermelho. Valores abaixo de 1000(mil), significa que o sensor está recebendo sinal. Valores maiores que mil, significa que o sinal foi interrompido, ou seja, o idoso passou pelos sensores e está acordado.
+
+IMAGEM
+
+## Como utilizar SANCI com o QT Creator?
 
 ## Materiais utilizados:
 
