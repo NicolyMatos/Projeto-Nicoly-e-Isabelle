@@ -38,7 +38,7 @@ Logo em seguida, alterar a velocidade para "9600" e, em seguida, clicar no botao
 ![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/EscolhaPorta9600_QT.png)
 ![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/StatusConectado.png)
 
-Logo, aparecera o status da comunicação.
+Logo, aparecerá o status da comunicação.
 
 Caso queira finalizar a comunicação QT-Arduino, basta clicar em "Fechar". Assim, o staus da comunicação será alterado para "Desconectado".
 ![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/StatusDesconectado.png)
