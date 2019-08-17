@@ -15,39 +15,38 @@ O alarme poderá ser acionado ou destivado pelo cuidador através da interface W
 
 Acesse o site "projetoin.herokuapp.com". Ele irá abrir na página abaixo:
 
-IMAGEM
+![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/Inicio.png)
 
 Ao clicar no botão "Ativar" o sistema de alarme será ativado e o status do alarme será atualizado para "Ativado".
 
-IMAGEM
+![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/Ativado.png)
 
 Ao clicar no botão "Desativar" o Buzzer será desativado e o status do alarme será atualizado para "Desativado".
  
-IMAGEM
+![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/Desativado.png)
 
 No site também aparecerá os dados recebidos pelo sensor infravermelho. Valores abaixo de 1000(mil), significa que o sensor está recebendo sinal. Valores maiores que mil, significa que o sinal foi interrompido, ou seja, o idoso passou pelos sensores e está acordado.
-
-IMAGEM
 
 ## Como utilizar SANCI com o QT Creator?
 
 Primeiramente, devemos abrir a interface do QT Creator.
 
-IMAGEM
+![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/InicioQT.png)
 
 Para inicializar a comunicao QT-Arduino basta selecionar a porta do arduino "COM4".
 
-IMAGEM
+![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/EscolhaPortaQT.png)
 
 Logo em seguida, alterar a velocidade para "9600" e, em seguida, clicar no botao "Abrir".
 
-IMAGEM
+![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/EscolhaPorta9600_QT.png)
+![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/StatusConectado.png)
 
 Logo, aparecera o status da comunicacao.
 
 Caso queira finalizar a comunicacao QT-Arduino, basta clicar em "Fechar". Assim, o staus da comunicacao sera alterado para "Desconectado".
 
-IMAGEM
+![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/StatusDesconectado.png)
 
 ## Materiais utilizados:
 
