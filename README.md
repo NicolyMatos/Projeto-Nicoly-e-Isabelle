@@ -31,6 +31,24 @@ IMAGEM
 
 ## Como utilizar SANCI com o QT Creator?
 
+Primeiramente, devemos abrir a interface do QT Creator.
+
+IMAGEM
+
+Para inicializar a comunicao QT-Arduino basta selecionar a porta do arduino "COM4".
+
+IMAGEM
+
+Logo em seguida, alterar a velocidade para "9600" e, em seguida, clicar no botao "Abrir".
+
+IMAGEM
+
+Logo, aparecera o status da comunicacao.
+
+Caso queira finalizar a comunicacao QT-Arduino, basta clicar em "Fechar". Assim, o staus da comunicacao sera alterado para "Desconectado".
+
+IMAGEM
+
 ## Materiais utilizados:
 
 NodeMcu ESP32: O módulo Wifi ESP32 NodeMCU é uma placa de desenvolvimento que combina o chip ESP32, uma interface usb-serial e um regulador de tensão 3.3V. A programação pode ser feita usando LUA ou a IDE do Arduino.
