@@ -9,7 +9,7 @@ Sanci é um sistema de alarme noturno que tem como objetivo auxiliar cuidadores 
 
 ## Como funciona?
 
-O alarme poderá ser acionado ou destivado pelo cuidador através da interface WEB ou pelo aplicativo. Quando o alarme estiver ativado, ele irá disparar toda vez que o sensor infravermelho(receptor/emissor), colocado próximo a cama, tiver o sinal interrompido, ou seja, toda vez que alguem passar por ele. Podendo ser desativado através do site "projetoin.herokuapp.com" 
+O alarme poderá ser acionado ou destivado pelo cuidador através da interface WEB ou pelo aplicativo. Quando o alarme estiver ativado, ele irá disparar toda vez que o sensor infravermelho(receptor/emissor), colocado próximo a cama, tiver o sinal interrompido, ou seja, toda vez que alguém passar por ele. Podendo ser desativado através do site "projetoin.herokuapp.com" 
 
 ## Como utlizar SANCI pela WEB?
 
@@ -29,6 +29,8 @@ No site também aparecerá os dados recebidos pelo sensor infravermelho. Valores
 Primeiramente, devemos abrir a interface do QT Creator.
 ![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/InicioQT.png)
 
+### Comunicação QT-Arduino
+
 Para inicializar a comunicao QT-Arduino basta selecionar a porta do arduino "COM4".
 ![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/EscolhaPortaQT.png)
 
@@ -36,10 +38,20 @@ Logo em seguida, alterar a velocidade para "9600" e, em seguida, clicar no botao
 ![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/EscolhaPorta9600_QT.png)
 ![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/StatusConectado.png)
 
-Logo, aparecera o status da comunicacao.
+Logo, aparecera o status da comunicação.
 
-Caso queira finalizar a comunicacao QT-Arduino, basta clicar em "Fechar". Assim, o staus da comunicacao sera alterado para "Desconectado".
+Caso queira finalizar a comunicacao QT-Arduino, basta clicar em "Fechar". Assim, o staus da comunicacao será alterado para "Desconectado".
 ![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/StatusDesconectado.png)
+
+### Ativando o amlarme no QT:
+
+Para ativar o alarme basta clicar no botão "Ativar", ao apertar irá aparecer na tela que o alarme está ativado
+![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/AlarmeAtivadoQT.png)
+
+### Desativando o alarme no QT:
+
+Para desativar o alarme basta clicar no botão "Desativar", ao apertar irá aparecer na tela que o alarme está ativado
+![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/AlarmeDesativadoQT.png)
 
 ## Materiais utilizados:
 
