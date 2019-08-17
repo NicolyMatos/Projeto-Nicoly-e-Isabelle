@@ -31,7 +31,7 @@ Primeiramente, devemos abrir a interface do QT Creator.
 
 ### Comunicação QT-Arduino
 
-Para inicializar a comunicao QT-Arduino basta selecionar a porta do arduino "COM4".
+Para inicializar a comunição QT-Arduino basta selecionar a porta do arduino "COM4".
 ![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/EscolhaPortaQT.png)
 
 Logo em seguida, alterar a velocidade para "9600" e, em seguida, clicar no botao "Abrir".
@@ -40,7 +40,7 @@ Logo em seguida, alterar a velocidade para "9600" e, em seguida, clicar no botao
 
 Logo, aparecera o status da comunicação.
 
-Caso queira finalizar a comunicacao QT-Arduino, basta clicar em "Fechar". Assim, o staus da comunicacao será alterado para "Desconectado".
+Caso queira finalizar a comunicação QT-Arduino, basta clicar em "Fechar". Assim, o staus da comunicação será alterado para "Desconectado".
 ![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly-e-Isabelle/blob/master/imagens/StatusDesconectado.png)
 
 ### Ativando o amlarme no QT:
